@@ -1,13 +1,13 @@
-<h1><a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html">Magento 2 Category Sort By Extension by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Category Sort By Extension by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html"><img src="https://www.weltpixel.com/media/catalog/product/1/7/17._category_sort_by_extension_1_1.png" alt="Category Sort By Extension"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/1/7/17._category_sort_by_extension_1_1.png" alt="Category Sort By Extension"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h1>ABOUT THE MAGENTO 2 CATEGORY SORT BY EXTENSION.</h1>
+    <h1>ABOUT THE MAGENTO 2 CATEGORY SORT BY EXTENSION.</h1>
 <p>
 Category Sorting is a key component in the ability to find you're looking for. If sort types are hard to use, or missing, it can result in a customer's inability to find products. This often leads to them abandoning the website - causing you to lose a potential sale. We expanded the default Magento sorting capability by simplifying the sorting process. We also added many new, most frequently used, sort types. These include “price low to high” and “price high to low” functionality. Price sorting is one of the most popular types used by consumers, along with Best Seller and Most Reviewed. After using filters to narrow down a list of products, the customer will often sort them to find the best value. For this reason it is important to have options such as Best Seller, Highest Rated, and Most Reviewed. These will allow the user to make a more educated decision when measuring the product value or quality.
     </p>
@@ -76,8 +76,8 @@ Rename sorting options to match your own vision.
 Reorder options from Magento sort categories.
 </p>
 <img class="lazy" src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/reorder.gif" data-original="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/reorder.gif" alt="Magento 2 Category Sort By Extension reorder sorting options example screen." style="display: inline; max-width: 100%;">
-  	                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html">Magento 2 Category Sort By Extension by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                            <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Category Sort By Extension by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                            </div></td>
  </tr>
 </table>
@@ -256,8 +256,8 @@ Reorder options from Magento sort categories.
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                                                               <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -288,10 +288,10 @@ Reorder options from Magento sort categories.
 </li>
 <li>
 <strong>Name [input]</strong> - Insert custom label for this option.
-	</li>
-	<li>
+  </li>
+  <li>
 <strong>Position [input]</strong> - Insert position for this option in the dropdown.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/sort-by-position.png"></p>
 </div>
@@ -310,10 +310,10 @@ Reorder options from Magento sort categories.
 </li>
 <li>
 <strong>Name [input]</strong> - Insert custom label for this option.
-	</li>
-	<li>
+  </li>
+  <li>
 <strong>Position [input]</strong> - Insert position for this option in the dropdown.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/sort-by-product-name.png"></p>
 </div>
@@ -332,7 +332,7 @@ Reorder options from Magento sort categories.
 </li>
 <li>
 <strong>Position [input]</strong> - Insert position for this option in the dropdown.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/sort-by-price.png"></p>
 </div>
@@ -351,10 +351,10 @@ Reorder options from Magento sort categories.
 </li>
 <li>
 <strong>Name [input]</strong> - Insert custom label for this option.
-	</li>
-	<li>
+  </li>
+  <li>
 <strong>Position [input]</strong> - Insert position for this option in the dropdown.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/sort-by-newest-arrivals.png"></p>
 </div>
@@ -373,10 +373,10 @@ Reorder options from Magento sort categories.
 </li>
 <li>
 <strong>Name [input]</strong> - Insert custom label for this option.
-	</li>
-	<li>
+  </li>
+  <li>
 <strong>Position [input]</strong> - Insert position for this option in the dropdown.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/sort-by-best-selling.png"></p>
 </div>
@@ -395,10 +395,10 @@ Reorder options from Magento sort categories.
 </li>
 <li>
 <strong>Name [input]</strong> - Insert custom label for this option.
-	</li>
-	<li>
+  </li>
+  <li>
 <strong>Position [input]</strong> - Insert position for this option in the dropdown.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/sort-by-top-rated.png"></p>
 </div>
@@ -417,10 +417,10 @@ Reorder options from Magento sort categories.
 </li>
 <li>
 <strong>Name [input]</strong> - Insert custom label for this option.
-	</li>
-	<li>
+  </li>
+  <li>
 <strong>Position [input]</strong> - Insert position for this option in the dropdown.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/sort-by-most-reviewed.png"></p>
 </div>
@@ -439,7 +439,7 @@ For example, you can set the Default Sorting Option as Price (Low to High) or (H
 </p>
 <p>
 After installing this extension, the new sort options are available.
-	</p>
+  </p>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/magento-store-configuration.png"></p>
 </div>
   </td>
@@ -454,14 +454,14 @@ After installing this extension, the new sort options are available.
 <ul>
 <li>
 <strong>Available Product Listing Sort [multiselect]</strong> - To customize the sorting option, clear the Use All Available Attributes checkbox and select the attributes you want to use. You can define and add attributes as needed. Note: Category settings override extension settings.
-	</li>
-	<li>
+  </li>
+  <li>
 <strong>Default Product Listing Sort By [dropdown]</strong> - To define the default “Sort By” option, clear the “Use Config Settings” checkbox and select an attribute. Note: Category settings override config settings.
-	</li>
+  </li>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/product-category-sorting/category-settings.png"></p>
 </div>
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html">Magento 2 Category Sort By Extension by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-category-sort-by-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Category Sort By Extension by WeltPixel.</a></h3>
